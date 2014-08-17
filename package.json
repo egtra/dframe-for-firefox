@@ -1,9 +1,9 @@
 {
   "name": "dframe-for-firefox",
-  "title": "dframe-for-firefox",
+  "title": "Dframe for Firefox",
   "id": "jid1-gq6XSmcvj1yAKA",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Dframe viewer add-on",
+  "author": "Yusuke Ichinohe",
   "license": "MPL 2.0",
   "version": "0.1"
 }
